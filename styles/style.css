@@ -1,0 +1,34 @@
+.kichik_matn {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #777;
+}
+
+.katta_sarlavha {
+  font-size: 48px;
+  font-weight: 700;
+}
+.katta_sarlavha span {
+  color: #000;
+}
+
+.hero_rasm {
+  width: 100%;
+  height: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+/* Xizmat bloklari */
+.xizmat {
+  padding: 20px;
+}
+.xizmat h5 {
+  margin-top: 10px;
+  font-weight: 600;
+}
+.xizmat p {
+  font-size: 14px;
+  color: #777;
+}/*# sourceMappingURL=style.css.map */
